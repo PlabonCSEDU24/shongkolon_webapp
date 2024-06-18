@@ -1,0 +1,6 @@
+{
+  "DEV_BACKEND_PORT": 5000,
+  "MONGODB_SERVER": "mongodb://127.0.0.1:27017/shongkolon",
+  "JWT_SECRET": "YOUR MOM IS STRAIGHT",
+  "MONGODB_SERVER_PLABON": "mongodb+srv://plabon:19271185@cluster0.gwj9o.mongodb.net/pootie_dev?retryWrites=true&w=majority"
+}
